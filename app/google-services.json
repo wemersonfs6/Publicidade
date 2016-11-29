@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22945746717",
+    "firebase_url": "https://wemerson-30afa.firebaseio.com",
+    "project_id": "wemerson-30afa",
+    "storage_bucket": "wemerson-30afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22945746717:android:e14ed8dfd1e084a7",
+        "android_client_info": {
+          "package_name": "com.wemerson.publicidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22945746717-olsuaav72ig7oshuae3sn5arrt92ilic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZFctxAPAl502uO9bE4Pil0cMmgWBV4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

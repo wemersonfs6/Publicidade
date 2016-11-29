@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Publicidade</string>
+    <string name="action_sign_in_short">Cadastro</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Utilize no mínimo 6 caracteres!</string>
+    <string name="auth_failed">ERRO!</string>
+    <string name="change_password">Trocar senha</string>
+    <string name="send_password_reset_email">Enviar email para troca de senha.</string>
+    <string name="new_pass">Nova senha</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Ainda não é cadastrado? Clique aqui!</string>
+    <string name="btn_link_to_login">Faça login aqui!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Esqueceu a senha?</string>
+    <string name="btn_reset_password">Resetar senha</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_change">Trocar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_remove">Remover</string>
+    <string name="btn_sign_out">Sair</string>
+    <string name="lbl_forgot_password">Esqueceu a senha?</string>
+    <string name="forgot_password_msg">Digite seu email para enviarmos intruções sobre a troca de senha!</string>
+</resources>
